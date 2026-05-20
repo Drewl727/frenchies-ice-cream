@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drewl727.github.io/frenchies-ice-cream/sitemap.xml
